@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Профиль 1": {
+      "commandName": "Project",
+      "commandLineArgs": "WEbApi"
+    },
+    "Профиль 2": {
+      "commandName": "Project"
+    }
+  }
+}
